@@ -1,0 +1,44 @@
+.main{
+    width: 700px;
+    height: 500px;
+    background-color: blue;
+    float: left;
+}
+
+.header{
+    width: 700px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+
+}
+
+.orta{
+    width: 700px;
+    height: 300px;
+    background-color: aqua;
+    float: left;
+    
+
+}
+
+.footer{
+    width: 700px;
+    height: 100px;
+    background-color: yellow;
+    float: left;
+}
+
+.nav{
+    width: 130px;
+    height: 300px;
+    background-color: blanchedalmond;
+    float: left;
+}
+
+.aside{
+    width: 130px;
+    height: 300px;
+    background-color: blanchedalmond;
+    float: right;
+}
